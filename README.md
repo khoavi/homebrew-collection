@@ -5,6 +5,6 @@ Some old Homebrew Formulas which no longer included in homebrew-core
 
 Simply `tap` then install
 ```
-brew tap khoavi/collection
+brew tap khoaint/collection
 brew install <formula>
 ```
