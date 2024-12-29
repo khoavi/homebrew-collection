@@ -5,6 +5,6 @@ Some old Homebrew Formulas which no longer included in homebrew-core
 
 Simply `tap` then install
 ```
-brew tap khoanduy/collection
+brew tap sciovir/collection
 brew install <formula>
 ```
